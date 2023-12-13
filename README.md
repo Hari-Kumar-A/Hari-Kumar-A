@@ -4,7 +4,7 @@
 </h1>
  
 
-### :woman_technologist: About Me :
+### About Me :
 I'm an undergrad student at NIT Trichy. I currently live in Chennai, Tamil Nadu, India.
 - 💻I'm interested in Full Stack Development and Machine Learning. I love to explore various tech stacks. 
   
